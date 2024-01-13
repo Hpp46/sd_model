@@ -11,3 +11,9 @@ license: openrail
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+
+
+
+requirements.txt为所需要的环境配置
+app.py为UI，可直接运行使用
